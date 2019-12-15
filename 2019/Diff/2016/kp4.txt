@@ -1,0 +1,5 @@
+LKAP-Gut2_C11_091.seq Vibrionaceae
+LKAP-Gut2_E04_024.seq Unclassified_Gammaproteobacteria
+LKAP-Gut2_G07_051.seq Shewanellaceae
+LKAP-Gut2_H04_018.seq Crocinitomicaceae
+LKAP-Gut2_H12_082.seq Bernardetiaceae

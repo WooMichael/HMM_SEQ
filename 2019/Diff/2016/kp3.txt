@@ -1,0 +1,3 @@
+LKAP.g-Gut1_A07_063.seq Unclassified_Bacillales
+LKAP.g-Gut1_F09_069.seq Vibrionaceae
+LKAP.g-Gut1_G10_068.seq Cellvibrionaceae

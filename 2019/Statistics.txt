@@ -1,0 +1,16 @@
+Woo/2016/kp2016_1.txt
+Match: 22 Diff: 21 Total: 43
+Woo/2016/kp2016_2.txt
+Match: 74 Diff: 4 Total: 78
+Woo/2016/kp2016_3.txt
+Match: 90 Diff: 3 Total: 93
+Woo/2016/kp2016_4.txt
+Match: 89 Diff: 5 Total: 94
+Woo/2017/kpGutHK.txt
+Match: 96 Diff: 0 Total: 96
+Woo/2019/kp2017.txt
+Match: 79 Diff: 2 Total: 81
+Woo/2019/kp2018_1.txt
+Match: 55 Diff: 20 Total: 75
+Woo/2019/kp2018_2.txt
+Match: 62 Diff: 19 Total: 81
